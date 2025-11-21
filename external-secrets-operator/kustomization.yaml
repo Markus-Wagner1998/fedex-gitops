@@ -6,4 +6,5 @@ resources:
 - namespace.yaml
 - helm-release.yaml
 - helm-repository.yaml
+- vault-token-sealed.yaml
 #- eso-crds.yaml
