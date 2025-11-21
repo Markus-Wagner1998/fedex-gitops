@@ -8,4 +8,5 @@ resources:
 - helm-repository.yaml
 - vault-token-sealed.yaml
 - vault-secretstore.yaml
+- external-secret-test.yaml
 #- eso-crds.yaml
