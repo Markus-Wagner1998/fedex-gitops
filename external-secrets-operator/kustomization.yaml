@@ -4,6 +4,6 @@ kind: Kustomization
 
 resources:
 - namespace.yaml
-- helm-release.yaml
-- helm-repository.yaml
-- eso-crds.yaml
+#- helm-release.yaml
+#- helm-repository.yaml
+# - eso-crds.yaml
