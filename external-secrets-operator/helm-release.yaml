@@ -14,11 +14,6 @@ spec:
         name: external-secrets
         namespace: flux-system
   values:
-    webhook:
-      create: false
-    crds:
-      conversion:
-        enabled: false
     fullnameOverride: external-secrets-operator
 #    serviceMonitor:
 #      enabled: true
