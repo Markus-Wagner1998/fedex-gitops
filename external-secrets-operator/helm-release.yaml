@@ -17,4 +17,3 @@ spec:
     fullnameOverride: external-secrets-operator
     serviceMonitor:
       enabled: true
-    installCRDs: true
